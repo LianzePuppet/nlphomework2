@@ -1,0 +1,4 @@
+cat GENIA_abstract.txt | tr -cs "[:alnum:]" "\n" | tr "[:upper:]" "[:lower:]">GENIA_abstract.pure.txt
+cat GENIA_abstract.pure.txt | sort | uniq | wc #得到分子13,648
+cat GENIA_abstract.txt | wc #分词前分母 402,694
+cat GENIA_abstract.pure.txt | wc #分词后分母 434,141
