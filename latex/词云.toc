@@ -1,0 +1,19 @@
+\contentsline {section}{\numberline {1}实验目的}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}前期工作}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}本次实验}{3}{subsection.1.2}%
+\contentsline {section}{\numberline {2}实验材料}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}实验所需包及语料库}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}词云图介绍}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}语料库介绍}{3}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}GENIA语料库}{3}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}AGAC语料库}{4}{subsubsection.2.3.2}%
+\contentsline {section}{\numberline {3}实验步骤}{4}{section.3}%
+\contentsline {subsection}{\numberline {3.1}语料库处理}{4}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}GENIA语料库过大问题及解决}{4}{subsubsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.2}词频统计及绘图}{4}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}词云结果分析}{5}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}存在的问题}{6}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}改进：python nltk包词干提取}{6}{subsection.3.5}%
+\contentsline {subsubsection}{\numberline {3.5.1}三种词干提取器对比}{6}{subsubsection.3.5.1}%
+\contentsline {subsubsection}{\numberline {3.5.2}图形绘制}{7}{subsubsection.3.5.2}%
+\contentsline {section}{\numberline {4}实验总结}{8}{section.4}%
